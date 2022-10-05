@@ -1,0 +1,1 @@
+gcc interpreter.c -o interpreter && ./interpreter $1
