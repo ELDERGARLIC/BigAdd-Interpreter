@@ -252,7 +252,7 @@ if(source_state.name=="comment"||source_state.name=="string constant") {
 ```
 }
 else{
-printf("An unrecognized characteris detected in code!\n");
+print("An unrecognized characteris detected in code!\n");
 break;
 }
 }
